@@ -13,7 +13,7 @@ for(let i = 0; i < 80; i++){
     const emojis = ["❤️","🥺","😭","💖","🌹"];
     const emoji = emojis[Math.floor(Math.random() * emojis.length)];
 
-    sorry.innerHTML = "SORRY HEERBO " + emoji;
+    sorry.innerHTML = "SORRY MADAM JI " + emoji;
 
     sorry.style.left = Math.random() * 100 + "vw";
     sorry.style.fontSize = (15 + Math.random() * 25) + "px";
